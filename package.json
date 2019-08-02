@@ -1,0 +1,22 @@
+{
+  "name": "cursonnode",
+  "version": "1.0.0",
+  "description": "curso Node Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandrosaiz01/cursonnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandrosaiz01/cursonnode/issues"
+  },
+  "homepage": "https://github.com/Alejandrosaiz01/cursonnode#readme",
+  "dependencies": {
+    "chance": "^1.0.18"
+  }
+}
